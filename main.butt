@@ -1,0 +1,7 @@
+butt x = 10
+
+vibe (x > 5) {
+  clap("BIG BUTT ENERGY")
+} nah {
+  clap("small butt energy")
+}

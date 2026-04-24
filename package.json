@@ -1,0 +1,46 @@
+{
+  "name": "butt-lang",
+  "version": "1.0.0",
+  "description": "A highly unstable programming language for educational purposes 🤣.",
+  "main": "src/index.js",
+  "bin": {
+    "butt": "./src/cli.js"
+  },
+  "scripts": {
+    "test": "node src/cli.js main.butt",
+    "start": "node src/cli.js main.butt"
+  },
+  "keywords": [
+    "language",
+    "interpreter",
+    "butt",
+    "funny",
+    "meme-language"
+  ],
+  "author": "Wahb ",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14",
+    "vscode": "^1.80.0"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/wahb-amir/butt-programming-language"
+  },
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "butt-icons",
+        "label": "Butt Icons 🍑",
+        "path": "./butt-icon-theme.json"
+      }
+    ],
+    "languages": [
+      {
+        "id": "butt",
+        "extensions": [".butt"],
+        "aliases": ["Butt"]
+      }
+    ]
+  }
+}

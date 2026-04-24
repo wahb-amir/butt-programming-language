@@ -1,0 +1,10 @@
+{
+  "iconDefinitions": {
+    "file-butt": {
+      "iconPath": "./icons/butt.png"
+    }
+  },
+  "fileExtensions": {
+    "butt": "file-butt"
+  }
+}

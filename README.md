@@ -21,8 +21,8 @@ It runs on a simple Node.js interpreter and uses `.butt` files.
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/butt-lang.git
-cd butt-lang
+git clone https://github.com/wahb-amir/butt-programming-language
+cd butt-programming-language
 ```
 
 ---

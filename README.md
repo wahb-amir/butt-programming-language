@@ -190,22 +190,6 @@ Butt Lang:
 
 ---
 
-# ⚠️ Limitations
-
-- Not a real compiler  
-- Simple interpreter logic  
-- Built for fun only  
-
----
-
-# 😈 Future Ideas
-
-- VS Code syntax highlighting  
-- File icons   
-- Web playground  
-- Better parser  
-
----
 
 # 💡 Why Butt Exists
 

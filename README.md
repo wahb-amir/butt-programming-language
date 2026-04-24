@@ -48,7 +48,7 @@ npm link
 Run a `.butt` file:
 
 ```bash
-butt examples/main.butt
+butt main.butt
 ```
 
 ---

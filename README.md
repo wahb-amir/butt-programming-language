@@ -1,4 +1,4 @@
-# 🍑 Butt Programming Language
+#  Butt Programming Language
 
 Butt is a lightweight, meme-driven programming language built for fun, chaos, and educational suffering.
 
@@ -173,7 +173,7 @@ return x
 butt x = 10
 
 vibe (x > 5) {
-  clap("BUTT ENERGY ACTIVATED 🍑")
+  clap("BUTT ENERGY ACTIVATED ")
 } nah {
   clap("low butt energy")
 }
@@ -201,7 +201,7 @@ Butt Lang:
 # 😈 Future Ideas
 
 - VS Code syntax highlighting  
-- File icons 🍑  
+- File icons   
 - Web playground  
 - Better parser  
 
